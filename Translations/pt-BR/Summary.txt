@@ -9,8 +9,8 @@ Toda a seguranca da Fundacao foi encerrada.
 Ambos os lados sofreram perdas e se beneficiaram grandemente. O vencedor e indeterminado.
 [summary_d_escaped] class-d escaparam
 [summary_s_escaped] cientista(s) sobreviveram
-Detonacao da Ogiva Alfa terminada [summary_warhead_kills] seres eliminados.
-A Ogiva Alfa nao foi detonada durante esta missao.
+Alpha Warhead detonada, eliminando [summary_warhead_kills] seres eliminados.
+Alpha Warhead nao foi detonada durante esta missao.
 A missao levou [summary_round_minutes] minutos e [summary_round_seconds] segundos.
 [summary_scp_terminated] SCPs terminados.
 proxima rodada em [summary_next_round_countdown] segundos.
