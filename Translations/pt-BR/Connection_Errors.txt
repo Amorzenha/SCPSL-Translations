@@ -14,6 +14,23 @@
 <size=80>ESPERE UM MOMENTO</size>\n<size=35>Estabilizando conexão...</size>
 <size=80>REINICIANDO PARTIDA</size>\n<size=35>O servidor está reiniciando...</size>
 <size=80>ESPERE UM MOMENTO</size>\n<size=35>Carregando tutorial...</size>
-<size=80>VERSÃO IMCOPATÍVEL</size>\nA sua versão do jogo é diferente do server.\n(Sua versão - [your]; Versão do servidor - [server])
-<size=80>CONECTANDO</size>\n<size=35>Carregando o nível...</size>
+<size=80>VERSÃO IMCOPATÍVEL</size>\nA sua versão do jogo é diferente do server.\n(Sua versão - {0}; Versão do servidor - {1})
+<size=80>CONECTANDO</size>\n<size=35>Carregando o mapa...</size>
 <size=35>Carregando a instalação...</size>
+<size=80>DESCONECTADO</size>\nOcorreu um erro não especificado no servidor.
+<size=80>DESCONECTADO</size>\nEste servidor requer autenticação por servidores centrais.
+<size=80>DESCONECTADO</size>\nVocê não está na lista de permissões neste servidor.
+<size=80>DESCONECTADO</size>\nVocê foi banido globalmente.
+<size=80>DESCONECTADO</size>\nVocê foi banido globalmente: {0}.
+<size=80>DESCONECTADO</size>\nVocê foi banido deste servidor.
+<size=80>DESCONECTADO</size>\nVocê foi banido deste servidor\nO banimento expira em: {0} {1}
+<size=80>DESCONECTADO</size>\nSeu token de autenticação expirou.\nO servidor pode ter um horário ou fuso horário inválidos.\nEntre em contato com um administrador do servidor.
+<size=80>DESCONECTADO</size>\nVocê tem taxa limitada. Tente novamente em alguns segundos.
+<size=80>DESCONECTADO</size>\nO servidor não está aceitando conexões da sua localização geográfica.\nO nome ou informações do servidor podem conter mais detalhes.
+<size=80>DESCONECTADO</size>\nVocê foi expulso por uma modificação do servidor.\n\nRazão: {0}\nEsta é uma modificação do servidor, não um recurso do jogo.\nEntre em contato com o administrador do servidor para obter mais informações.
+<size=80>DESCONECTADO</size>\nSeu token de autenticação foi rejeitado pelo servidor.\nPor favor, reinicie o jogo e novamente ou entre em contato com o suporte técnico do estúdio.
+<size=80>DESCONECTADO</size>\nVocê foi banido deste servidor\nRazão: {0}
+<size=80>DESCONECTADO</size>\nVocê foi banido deste servidor.\nO banimento expira em: {0} {1}\nRazão: {2}
+<size=80>ESPERE UM MOMENTO</size>\nProcessando a verificação de segurança do servidor...
+<size=80>DESCONECTADO</size>\nFalha ao processar a verificação de segurança do servidor.
+<size=80>DESCONECTADO</size>\nO processo da verificação de segurança do servidor foi muito lento para o servidor.\nTente novamente ou entre em contato com o administrador do servidor.
