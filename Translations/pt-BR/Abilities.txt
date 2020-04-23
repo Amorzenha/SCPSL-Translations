@@ -1,0 +1,29 @@
+Habilidade não encontrada:o ID da habilidade associado a essa habilidade não existe.
+Correr:Aumenta sua velocidade de movimento, mas também aumenta o som emitido enquanto se move.
+Furtivo:Seus movimentos se tornam silenciosos, ao custo de muita velocidade.
+Inventário:Abra seu inventário e selecione um item que você pegou usando LMB ou solte-o usando RMB.
+Desarmado:Você não tem nada. Encontre algo. Qualquer coisa.
+Cartão de acesso:Você tem um cartão de acesso, não é o melhor, mas não o perca.
+Equipamento padrão:Você está equipado com um rifle, granadas, um rádio, um desarme e um cartão de acesso.
+Armado & Perigoso:Você tem consigo uma metralhadora leve, uma ferramenta de hackers (cartão de acesso) e um kit de primeiros socorros.
+Velocidade surpreendente:Quando nenhum humano pode vê-lo, você se move muito rapidamente. Se você está sendo observado diretamente por um humano, não pode se mover ou atacar, mas todos os humanos que estão assistindo piscarão simultaneamente a cada poucos segundos, permitindo que você aja.
+Pânico:Você se move mais rapidamente à medida que sua saúde diminui.
+Buraco:Você pode colocar um buraco preto de corrosão e teleportar de volta para ele a qualquer momento. O teletransporte leva alguns segundos.\nVocê pode mover seu buraco colocando-o novamente.
+Corrosão:Você pode passar pelas portas entrando nelas.
+Canção do cisne:Você recebe quase nenhum dano das balas, mas pode ser instantaneamente recontido através de um sacrifício humano dentro da sua câmara de contenção.
+Dimensão do bolso:Captura um humano e os teleporta para uma dimensão de bolso que os mata rapidamente. Os humanos devem escolher a saída correta ou morrer.
+Tímido:Por padrão, você se move lentamente e não pode atacar, e emite um choro silencioso. Se os humanos olham para você por tempo suficiente, você congela por cinco segundos e entra em Fúria.
+Raiva Anti-Social:Com raiva, você se move extremamente rápido e grita alto. A raiva dura cerca de vinte segundos; depois que ele expirar, você não poderá entrar no Rage por um curto período de tempo, durante o qual não chorará.\nEnquanto no Rage, clicar ou segurar esse botão matará instantaneamente seres humanos em curto alcance.
+Demolir:Enquanto estiver em fúria, a interação com as portas os destruirá.
+Ultrassensível:Você não pode ver seres humanos a menos que eles corram, batam em você ou disparem uma arma muito perto de você.
+Predador:Seus passos são silenciosos. Manter a tecla atribuída aumenta sua velocidade, mas torna seu movimento audível.
+Mímica:Você pode falar em voz alta com qualquer jogador próximo, incluindo humanos.
+Mordida:Ataca um humano no alcance corpo a corpo, causando instantaneamente danos graves.
+Antídoto:Toca um humano a curta distância, matando-o instantaneamente.
+A Cura:Reanima um humano morto recentemente. Humanos curados jogam como zumbis com movimentos rápidos e pouca saúde.\nNão há limite para quantos humanos podem ser reanimados.
+Pancada:Ataca um humano e causa uma quantidade moderada de dano a ele.
+Abrir/Fechar Portas:Você pode interagir com as portas para abrir e fechá-las por 5 EA. Você também pode travá-los, drenando o seu ponto de acesso, mas impedindo que alguém o abra ou feche até você levantar o bloqueio ou ficar sem a energia auxiliar.
+Sobrecarga da Tesla:Você pode ativar um Tesla Gate por 50 EA para ativá-lo instantaneamente, matando qualquer jogador dentro ou perto dele.
+Blecaute:A partir do Nível 2 de acesso, você pode interagir com algumas salas para trancá-las, desligando todas as luzes e fechando todas as portas. Enquanto estão em salas trancadas, os humanos não podem ver SCP-173.
+Virtualmente indestrutível:Cinco geradores aparecem na Heavy Containment Zone. Se todos eles estiverem desbloqueados e ativados, você será recontido.\nOs geradores têm uma sequência de contagem regressiva que qualquer jogador pode interromper pressionando o botão "CANCELAR" no gerador.
+Crek:Segure ou clique para quebrar o pescoço de um ser humano, matando-o instantaneamente, desde que não o veja ou esteja piscando.
