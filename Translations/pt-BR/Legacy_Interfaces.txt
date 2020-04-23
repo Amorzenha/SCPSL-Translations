@@ -5,7 +5,7 @@ Class-D Personnel escaparam
 Cientistas sobreviveram
 Mortos por SCPs
 SCPs mortos/contidos
-Ogiva Alfa
+Alpha Warhead
 Detonado
 Não usado
 A proxima partida iniciara em [time] segundos.
@@ -15,3 +15,5 @@ USAR BURACO
 VOCÊ MORREU
 Voce foi morto por
 como
+Passiva
+(escondido)
