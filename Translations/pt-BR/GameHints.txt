@@ -1,0 +1,6 @@
+﻿<color=red>Acesso negado</color>
+Atingiu o limite de <color=yellow>[type] munição</color> (<color=yellow>[max_type_count] clipes</color>)
+<b>Já</b> atingiu o limite de <color=yellow>[type] munição</color> (<color=yellow>[max_type_count] clipes</color>)
+Atingiu o limite de <color=yellow>[type]</color> (<color=yellow>[max_type_count] itens</color>)
+<b>Já</b> atingiu o limite de <color=yellow>[type]</color> (<color=yellow>[max_type_count] itens</color>)
+Somente <color=yellow>[max_item_count] items</color> podem ser transportados.
