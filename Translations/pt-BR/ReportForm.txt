@@ -1,0 +1,7 @@
+Reportar jogador
+Jogador:\nPlayer ID:\nDescrição:
+Cancelar
+Reportar por violar regras do servidor
+Reportar por usar trapaças ou raid
+REPORTANDO
+Por favor, espere...
