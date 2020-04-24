@@ -87,5 +87,5 @@ SALA PÚBLICA
 Se ativado, seus amigos do Steam poderão acompanhá-lo sem permissão.
 ESCONDER IP
 Se ativado, qualquer IP no console do cliente não será exibido.
-CLIQUE PARA ACHAR
+CLIQUE PARA PEGAR
 Para pegar o item  nao vai ser preciso segurar o a tecla; clique novamente para cancelar.
