@@ -1,0 +1,67 @@
+Notícia
+Servidores
+Definições
+Sair
+Social Media
+Internet
+Favoritos
+Oficial
+Histórico
+Amigos
+Procurar Servidor
+Criar Servidor
+Re-Conectcar
+Conexão Direta
+Atualizar
+Ocultar Salas Vazias
+Ocultar Salas Lotadas
+Sem Lista de Permissões
+Vídeo
+Áudio
+Controles
+Gameplay
+Outros
+Modo Janela
+Tela Cheia Exclusiva
+Janela sem Bordas
+Janela Maximizada
+Janela
+V-Sync
+Limite de FPS
+Off
+Qualidade da textura
+Quantidade de Sangue
+Sombras
+Resolução da Sombra
+Distância da Sombra
+Motion Blur
+Correção de Cor
+Anti-Aliasing
+Modo de Renderização Leve
+Volume Principal
+Efeitos Sonoros
+Chat de voz
+Música
+Volume da Interface
+Tema do Menu
+Modo de Introdução Rápida
+Movimento na Câmera
+Aperte para Correr
+Exibir valor exato do HP
+Presença Rica
+Sala Pública
+Clique para Pegar
+SCP-079 - Modo de Vista Alternada
+SCP-079 - Pós-Processamento
+Idioma
+Menu principal
+Conectar
+Voltar
+Essa alteração vai recarregar o menu..\nRecarregar o menu agora?
+Sim
+Não
+Você tem certeza que quer sair?
+Resolução da tela
+Esconder IP
+Bem vindo de volta, {username}!
+Créditos
