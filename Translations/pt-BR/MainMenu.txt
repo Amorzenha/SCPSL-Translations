@@ -59,3 +59,33 @@ QUANTIDADE DE SANGUE
 Limite de FPS
 Limite de FPS não funciona quando V-sync está ligado.
 Definir controles padrão
+Usamos o Steam Discussions como um fórum. (Clique no logo abaixo para abrir o fórum)
+CONFIGURAÇÕES DE ÁUDIO
+VOLUME PRINCIPAL
+MÚSICA
+CHAT DE VOZ
+EFEITOS SONOROS
+OPÇÕES DE JOGABILIDADE
+MODO DE INTRODUÇÃO RÁPIDA
+O texto de introdução da classe desaparecerá muito mais rapidamente.
+SCP-079 - MODO DE VISTA ALTERNADA
+Pressione uma vez para alternar entre os modos da câmera.
+SCP-079 - PÓS-PROCESSAMENTO
+Se desativado, os efeitos da câmera serão fortemente reduzidos.
+MOVIMENTO NA CÂMERA
+Permite que a câmera da primeira pessoa vibre durante o movimento.
+APERTE PARA CORRER
+Liga e desliga para correr, em vez de ser manter pressionada a tecla.
+BARRA HP ARTIFICIAL SEPARADA
+Dá à HP artificial sua própria barra de saúde, em vez de uma sobreposição.
+Nossas traduções são de código aberto no GitHub!\nQuer ajudar? Clique aqui para acessar o repositório.
+PRESENÇA RICA
+Se ativado, seu status será exibido no Discord/Steam.
+EXIBIR VALOR EXATO DO HP
+Exibe o HP exato, em vez de apenas a porcentagem.
+SALA PÚBLICA
+Se ativado, seus amigos do Steam poderão acompanhá-lo sem permissão.
+ESCONDER IP
+Se ativado, qualquer IP no console do cliente não será exibido.
+CLIQUE PARA ACHAR
+Para pegar o item  nao vai ser preciso segurar o a tecla; clique novamente para cancelar.
